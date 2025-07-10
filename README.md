@@ -69,7 +69,7 @@ You can answer directly or use commands at any time:
 
 ---
 
-## 📊 Performance Graphs
+<h3> 📊 Performance Graphs</h3>
 
 After solving several problems, you can type `g` to view:
 
